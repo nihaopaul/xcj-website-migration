@@ -1,0 +1,8 @@
+---
+id: 831
+title: XinCheJian and Xilinx
+date: 2011-04-15 01:07:26
+author: 3
+---
+
+Kevin Xie from Xilinx (Greater China manager of University Program) came by to visit XinCheJian last Sunday as he's very interested in helping Hackerspaces in China. He sees Hackerspaces like XinCheJian as a potential opportunity for students to apply the knowledge they gain in university in real devices while inspiring them to do cool stuff. Xilinx programmable logic devices is what is powering many industrial strength devices and an important building block in any larger project. Xilinx offer capabilities that complement micro-controllers very well when continuous signal processing is needed. This could offer us interesting alternatives to real-time sensors data processing and actuators control in a very compact package.
