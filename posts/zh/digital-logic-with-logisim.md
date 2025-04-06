@@ -1,0 +1,1 @@
+Logisim 很好玩，对我[新的项目](http://wiki.xinchejian.com/wiki/LED%5FMatrix%5Fdigital%5Flogic%5Fusing%5FLogisim)很有用。将来的时候新车间要教[数字逻辑](http://wiki.xinchejian.com/wiki/Digital%5FLogic)工作坊。
