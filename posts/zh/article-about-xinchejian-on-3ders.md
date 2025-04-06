@@ -1,0 +1,1 @@
+3D吧有文章创意空间在中国. [http://www.3ders.org/cn/articles/20111126-hackerspaces-in-china.html]
