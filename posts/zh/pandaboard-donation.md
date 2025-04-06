@@ -1,1 +1,0 @@
-For more information, check our [wiki](http://wiki.xinchejian.com/wiki/Panda%5FBoard).

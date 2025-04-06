@@ -1,8 +1,0 @@
----
-id: 1748
-title: &quot;Media Labs in Europe&quot; magazine
-date: 2011-10-30 17:09:49
-author: 4
----
-
-Hello

@@ -1,1 +1,0 @@
-受[這篇文章](http://hackaday.com/2011/08/11/how-to-put-your-logo-in-a-qr-code/)在Hack A Day的啟發，我決定製作一個包含欣測健的標誌的QR碼。我嘗試過一些不同的免費線上QR碼生成器，只有[這個](http://www.mobilefish.com/services/qrcode/qrcode.php)到目前為止，能夠產生正確包含中文的QR碼。在產生了想要的QR碼訊息之後，我用Photoshop打開它，在上面疊加欣測健標誌，並做了一些處理以移除QR碼重疊的部分，然後儲存它，就完成了！

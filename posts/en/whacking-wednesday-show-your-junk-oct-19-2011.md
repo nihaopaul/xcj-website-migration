@@ -1,8 +1,0 @@
----
-id: 1660
-title: Whacking Wednesday - Show your Junk (Oct 19, 2011)
-date: 2011-10-21 12:03:10
-author: 2
----
-
-Hello

@@ -1,8 +1,0 @@
----
-id: 1762
-title: Received our GGHC soldering stations!
-date: 2011-11-02 16:16:54
-author: 4
----
-
-We've just received our nine temperature controlled soldering station with digital display! Generously given by ELEMENT14 as participation prizes to for the spring 2011 Great Global Hackerspace Challenge competition.

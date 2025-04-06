@@ -1,8 +1,0 @@
----
-id: 1251
-title: Goldendust pollination project
-date: 2011-08-03 21:29:58
-author: 4
----
-
-XinCheJian is looking for people to join in the "Goldendust pollination" project. What is the Goldendust project? A collaborative reflexion toward the preservation of the bees in town involving researchers, designers and urban thinkers centered around the creation of wild bees refuges. There's many technological challenges to this project: take pictures of the bees, count how many bees are using the refuge, keep the refuge orientated towards the sun at all time. It's also a big component in existing urban farming practices to pollinate plants. For more information, contact: infoshumus@gmail.com. A workshop led by Aurelie "Lili" Moyon has been tentatively scheduled for [August 14th 2011](http://xinchejian.com/?page%5Fid=548®event%5Faction=register&event%5Fid=42&name%5Fof%5Fevent=Preserve%20the%20Wild%20Bees%20Workshop) depending on how many people sign up.

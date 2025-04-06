@@ -1,8 +1,0 @@
----
-id: 2089
-title: Robot RQ-5: paper robot
-date: 2011-12-12 11:39:20
-author: 4
----
-
-Thanks to [Innovati](http://www.innovati.com.tw) in Taiwan for sending us a sample that we had fun assembling on Sunday afternoon. Great gift idea for the holidays. Although rated as 12+, the assembly is definitely not trivial and it would probably be best to have an adult helping; we had Angie, Paul, Ricky and Angie's friend help out with the assembly and it still took an hour or two.... And we're still not sure the neck servo is assembled correctly. The kit retails for NT$1200 (about 254RMB or USD$40).

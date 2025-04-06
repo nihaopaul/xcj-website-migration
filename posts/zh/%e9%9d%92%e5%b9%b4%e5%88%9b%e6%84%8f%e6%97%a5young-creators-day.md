@@ -1,1 +1,0 @@
-星期六在上海世纪公园。谢谢新车间的会员在活动：Paul, Edward, Rockets

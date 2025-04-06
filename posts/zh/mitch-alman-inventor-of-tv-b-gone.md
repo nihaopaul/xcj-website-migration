@@ -1,1 +1,0 @@
-Mitch Altman是美国著名的TV-B-Gone的发明者，TV-B-Gone是一个能在公共场所关闭任何电视的遥控钥匙串。Mitch是旧金山Noisebridge黑客空间的共创办人，是Brain Machine的创造者，也是Cornfield Electronics首席执行官。Mitch在世界各地教导过焊锡和如何用微控制器做出很酷的项目。我们很幸运能邀请到Mitch Altman 4月17日来新车间教导大家！每个人都可以学习和享受亲手做电子项目的乐趣！有兴趣参加的人请报名。

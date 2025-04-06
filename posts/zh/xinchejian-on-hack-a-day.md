@@ -1,1 +1,0 @@
-Picture-56.png

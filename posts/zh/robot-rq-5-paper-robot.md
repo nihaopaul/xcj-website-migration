@@ -1,1 +1,0 @@
-感谢台湾的利基公司([Innovati](http://www.innovati.com.tw))寄来的礼物

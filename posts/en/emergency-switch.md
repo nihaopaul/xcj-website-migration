@@ -1,8 +1,0 @@
----
-id: 1485
-title: Emergency switch
-date: 2011-09-20 22:02:16
-author: 4
----
-
-Hello world!

@@ -1,1 +1,0 @@
-在XinCheJian拍摄，并设有2011年夏季实习生，Jonathan Kalin
