@@ -1,0 +1,7 @@
+---
+id: 133
+title: Sketchup 8 is fun, useful to design stuff
+date: 2010-12-26 09:31:20
+author: 4
+---
+
