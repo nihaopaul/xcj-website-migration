@@ -1,0 +1,29 @@
+---
+id: 1889
+title: Prototyping Social Innovation and Winnitron
+date: 2011-11-17 22:31:07
+author: 2
+---
+## error
+Failed to parse. Text: "```json
+{"en": "Good Wednesday talks. Gao Lei gave a talk on \"Prototyping Social Innovation\". Bryan Ma on Winnitron machine. - Posted using BlogPress from my iPhone", "zh": null}
+```
+". Error: SyntaxError: Unexpected token '`', "```json
+{""... is not valid JSON
+
+Troubleshooting URL: https://js.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE/
+
+
+## code
+ <!\[CDATA\[Good Wednesday talks. Gao Lei gave a talk on "Prototyping Social Innovation"  
+  
+[![](http://139.162.84.35/wp-content/uploads/2011/11/8CEADC0A-DAAD-40D5-B50D-7ED0020662B92.jpg)](http://139.162.84.35/wp-content/uploads/2011/11/8CEADC0A-DAAD-40D5-B50D-7ED0020662B92.jpg)
+
+  
+Bryan Ma on Winnitron machine.  
+  
+[![](http://139.162.84.35/wp-content/uploads/2011/11/57AE4951-E44F-4100-BECB-62DBBBD1A3543.jpg)](http://139.162.84.35/wp-content/uploads/2011/11/57AE4951-E44F-4100-BECB-62DBBBD1A3543.jpg)
+
+  
+\- Posted using BlogPress from my iPhone  
+\]\]> 
