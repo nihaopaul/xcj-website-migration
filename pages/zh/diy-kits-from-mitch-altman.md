@@ -1,0 +1,1 @@
+米奇奥特曼留了几套好玩的套件在新车间，想购买的人可以寄邮件到sales@xinchejian.com或是直接过来新车间购买。 我们有以下的套件： - TV-B-Gone (100rmb) - Brain Machine (130rmb) - Mignonette Game (150rmb) - MiniPOV (130rmb) - Trippy RGB (55rmb) - MintyBoost (130rmb) - LEDcube (135rmb) 以上价钱不包含邮费和税点。 套件的详细介绍可以参考Mitch Altman 的[网站](http://www.tvbgone.com/cfe%5Fmfaire.php?PHPSESSID=34e07f3abe1d614d8c5c280823916e21)。
