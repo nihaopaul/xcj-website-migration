@@ -1,0 +1,10 @@
+---
+id: 1155
+title: Shanghai Linux Users Group June Tech Meeting
+date: 2011-06-20 23:16:05
+author: 3
+---
+
+How to make music in Linux
+Cross-compiling to ARM and Introduction to Panda board
+Around 50 persons showed up even though it was raining like crazy outside! A big THANK to all the participants for their support!
