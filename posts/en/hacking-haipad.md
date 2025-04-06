@@ -1,0 +1,8 @@
+---
+id: 763
+title: Hacking HaiPad
+date: 2011-04-10 11:26:17
+author: 2
+---
+
+Ricky just posted a detail article on hacking HaiPad m701!
