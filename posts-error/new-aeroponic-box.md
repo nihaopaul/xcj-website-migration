@@ -1,0 +1,38 @@
+---
+id: 1805
+title: New Aeroponic box
+date: 2011-11-07 15:16:33
+author: 2
+---
+## error
+Failed to parse. Text: "```json
+{"en": "I just received some new boxes, measuring 35cm x 46cm x 15.5cm, for an aeroponic system.", "zh": null}
+```
+". Error: SyntaxError: Unexpected token '`', "```json
+{""... is not valid JSON
+
+Troubleshooting URL: https://js.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE/
+
+
+## code
+ <!\[CDATA\[
+
+Just got a few of these new boxes measured 35cm x 46 cm x 15.5cm to build aeroponic. 
+  
+  
+[![](http://139.162.84.35/wp-content/uploads/2011/11/21673C17-A5D7-4CA1-BB79-5804ADA4A4952.jpg)](http://139.162.84.35/wp-content/uploads/2011/11/21673C17-A5D7-4CA1-BB79-5804ADA4A4952.jpg)
+
+  
+The size of the interior can be well supplied by just one ultrasonic fogger fixed at the center of the bottom without supporting structure for floating. The fogger is submerged in 7 cm of water for maxima efficiency. This also holds good amount of water to have a stable temperature. The fogger does well filling the space above with fog. 
+  
+  
+[![](http://139.162.84.35/wp-content/uploads/2011/11/3D62AF41-D4D2-41C3-A89C-48655803311E3.jpg)](http://139.162.84.35/wp-content/uploads/2011/11/3D62AF41-D4D2-41C3-A89C-48655803311E3.jpg)
+
+  
+Drill 3 cm holes on the cover with 7 cm spacing and transplant the lettuces.  
+  
+[![](http://139.162.84.35/wp-content/uploads/2011/11/82E21FE0-E720-4B69-ABDB-85B4037542604.jpg)](http://139.162.84.35/wp-content/uploads/2011/11/82E21FE0-E720-4B69-ABDB-85B4037542604.jpg)
+
+  
+\- Posted using BlogPress from my iPhone  
+\]\]> 
