@@ -1,3 +1,0 @@
-## Processing 课程
-
-**时间分布和周期**：周六或周日早上9点到12点，午饭後继续，下午1点至4点。共3周，18个小时。**课程内容安排**： Unit 1 – P5 概况与界面介绍 / 基本的二维绘制与互动 Unit 2 – 变量 / 条件句 Unit 3 – 极坐标 / 柏林噪点 Unit 4 – 循环 / 数组 Unit 5 – 位图 / 摄像头 Unit 6 – 有趣的第三方类库应用**针对受众**：入门级P5互动爱好者 / 艺术类学生，人数控制在15人以上，30人以内。**备注**：需自行携带笔记本并备有当日课程需要的文件（在每次课程的前一天共享当日的课件，学生自行下载）**收费**：每个人整个课程3周共18个小时的费用为800元，在校学生可以打7.5折。**报名**：有兴趣学习的人请联系：mlhsieh@xinchejian.com，请回复姓名、电话和Email。**教师资料**： Raven Kwok | 郭锐文 the-moor.blogbus.com weibo.com/ravenkwok vimeo.com/ravenkwok Personal Showreel 2007-2011:Colloid Text：Landscape

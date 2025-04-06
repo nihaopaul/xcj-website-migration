@@ -1,7 +1,0 @@
-Upcoming Events
-
-[ESPRESSO_EVENTS]
-
-Calendar
-
-[ESPRESSO_CANCELLED]
