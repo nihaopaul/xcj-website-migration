@@ -1,0 +1,18 @@
+---
+id: 1023
+title: Strobist in the space
+date: 2011-05-19 08:36:46
+author: 2
+---
+
+A few of the space members are also members of Shanghai Strobist and we can't help to hack the space to do some photo and video shoots.
+
+## Video for GGHC Video
+
+![IMG 0761](http://139.162.84.35/wp-content/uploads/2011/05/IMG_0761.jpg "IMG_0761.JPG")
+
+## Glamour Shoot
+
+![IMG 0757](http://139.162.84.35/wp-content/uploads/2011/05/IMG_0757.jpg "IMG_0757.JPG")
+
+[![Evan](http://farm4.static.flickr.com/3004/5720078894_f452dc4219.jpg)](http://www.flickr.com/photos/taweili/5720078894/ "Evan by xxom, on Flickr")
