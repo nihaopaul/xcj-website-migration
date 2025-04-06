@@ -1,0 +1,10 @@
+---
+id: 1919
+title: This weekend November 26th, 27th
+date: 2011-11-23 14:45:43
+author: 4
+---
+
+Quad Copter workshop by He QiChen - 26th Saturday 9am - 12pm You'll get every single part you need to build your own quad copter and fly it. This workshop is run by He Qichen. Sign up online here: <http://xinchejian.com/event/?ee=73>
+Roboracing - Sunday 1pm - 4pm - free
+If you're going to race send an email to [xinchejian@googlegroups.com](mailto:xinchejian@googlegroups.com). If you're planning on watching, please let us know by signing up here: <http://xinchejian.com/event/?ee=71>. Race starts at 2pm.  Loose with setup/testing from 1pm. Can the champion hold onto his *victory* cup? Come and join us. We've still got kits available for those who want to learn to solder or produce something worthwhile in an hour. Fun to do and fun to play with, get the brain machine to truly relax.
