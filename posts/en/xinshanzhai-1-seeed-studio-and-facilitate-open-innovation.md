@@ -1,8 +1,0 @@
----
-id: 159
-title: Xinshanzhai [1]: Seeed Studio and Facilitate Open Innovation
-date: 2010-12-26 22:22:37
-author: 2
----
-
-Today we at Xinchejian kicked off the first of the "Xinshanzhai" series of talks and discussion on how "Shanzhai" micro manufacture efficiency combined with open innovation process and open source hardware will change how China innovates. We had the honor to have Eric Pan, CEO and Founder of Seeed Studio to give the talk "Facilitate Open Innovation - The Seeed Studio Approach". Seeed Studio was founded 3 years ago in Shenzhen to explore combining open source hardware and the electronics supply chain in Shenzhen. Today, Seeed Studio employs over 30 engineers and support staffs with over USD$1 million in annual revenue mainly from US, Europe and Japanese customers which are 98% of its business. Seeed does not yet focus on the Chinese market as Eric points out that the tinkers/makers community in China has not yet matured enough for Seeed and there is not enough community. Seeed Studio has so far depended on word-of-mouth of the open hardware community for its marketing and will launch its first marketing campaign in 2011. Seeed's current focus is to grow its WISH platform described by Eric as an ecosystem to support open source hardware designers to better manage the product life cycle. WISH platform let designers and users propose requests and new designs and through the community voting and pre-ordering process to help to bring products to the market. Eric's 30 minutes talk was followed by over 2 hours of heated discussion on the topics of open source hardware, innovation and manufacture. The talk and discussions were livecast on Sina Weibo by Steven Cheng under #新山寨#.
