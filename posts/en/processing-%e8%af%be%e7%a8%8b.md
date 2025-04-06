@@ -1,0 +1,8 @@
+---
+id: 1572
+title: Processing 课程
+date: 2011-09-27 17:06:04
+author: 3
+---
+
+Time distribution and cycle: Sunday afternoon 1:00 PM to 4:00 PM. 6 weeks in total. First class date: October 16th. Last class date: November 20th. Course content schedule: Week 1: P5 introduction, software panel function introduction / Basic 2D graphics drawing / Basic 2D graphics drawing and mouse interaction. Week 2: Variable concept / Judgment concept / Loop concept / Function concept. Week 3: Object concept / OOP (basic). Week 4: Array. Week 5: Bitmap application / Camera application. Week 6: Application and examples of some interesting third-party libraries. Approximate time schedule for each class: 1:00 PM – 1:30 PM – P5 artwork appreciation. 1:30 PM – 2:20 PM – Teaching of the day's planned concept knowledge points and demonstration of examples. 2:20 PM – 2:30 PM – Break. 2:30 PM – 3:00 PM – Q&A, individual questions and answers. 3:00 PM – 4:00 PM – DIY, create your own according to the knowledge taught today, personal creation, showcase at the end. Target audience: Beginner P5 interaction enthusiasts / Art students, number controlled at 15 or more, 30 or less. Note: Students need to bring their own laptops and prepare the files needed for that day's class (sharing the slides for each class the day before, students download them themselves). Fee: 800 RMB for the entire 18-hour course for each person, students can get a 7.5% discount. Registration: Interested learners please contact: mlhsieh@xinchejian.com Teacher information: Raven Kwok | Guo Ruwen the-moor.blogbus.com weibo.com/ravenkwok vimeo.com/ravenkwok Personal Showreel 2007-2011:Colloid Text:Landscape:
