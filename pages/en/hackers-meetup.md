@@ -1,0 +1,1 @@
+Every Wednesday at 7pm at XinCheJian: Hackers Meetup, come to meet passionate Hackers and show what you've hacked! FREE!
